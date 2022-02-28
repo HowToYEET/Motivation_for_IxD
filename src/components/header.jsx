@@ -29,7 +29,7 @@ export default class headerAppController extends Component {
           <div className="title"><Title /></div>
           <Routes>
             <Route exact path="/Abstracts" element={<Ab />}></Route>
-            <Route exact path="/" element={<Motivation />}></Route>
+            <Route exact path="/Motivation_for_IxD/" element={<Motivation />}></Route>
           </Routes>
         </div>
       </Router>
