@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Motivation_for_IxD/static/css/main.4d174bff.css",
-    "main.js": "/Motivation_for_IxD/static/js/main.8c47cac4.js",
+    "main.css": "/Motivation_for_IxD/static/css/main.ebda9297.css",
+    "main.js": "/Motivation_for_IxD/static/js/main.83b25924.js",
     "index.html": "/Motivation_for_IxD/index.html",
-    "main.4d174bff.css.map": "/Motivation_for_IxD/static/css/main.4d174bff.css.map",
-    "main.8c47cac4.js.map": "/Motivation_for_IxD/static/js/main.8c47cac4.js.map"
+    "main.ebda9297.css.map": "/Motivation_for_IxD/static/css/main.ebda9297.css.map",
+    "main.83b25924.js.map": "/Motivation_for_IxD/static/js/main.83b25924.js.map"
   },
   "entrypoints": [
-    "static/css/main.4d174bff.css",
-    "static/js/main.8c47cac4.js"
+    "static/css/main.ebda9297.css",
+    "static/js/main.83b25924.js"
   ]
 }
