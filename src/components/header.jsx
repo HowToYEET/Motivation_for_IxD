@@ -20,7 +20,7 @@ export default class headerAppController extends Component {
         <div className="App">
           <ul className="App-header">
             <li className="li1">
-              <Link to="/">Home</Link>
+              <Link to="/Motivation_for_IxD/">Home</Link>
             </li>
             <li>
               <Link to="/Abstracts">Previous projects</Link>
