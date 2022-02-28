@@ -18,7 +18,7 @@ main {
 .App li{
   text-decoration: none;
   text-align: center;
-  margin: 5vh;
+  margin: 0vh;
   margin-top: 0vh;
 }
 .App a{

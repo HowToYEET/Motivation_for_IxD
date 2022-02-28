@@ -14,7 +14,7 @@ export default class headerAppController extends Component {
           <div className="App">
             <ul className="App-header">
               <li className="li1">
-                <Link to="/">Home</Link>
+                <Link to="/Motivation_for_IxD/">Home</Link>
               </li>
               <li className="li1">
                 <Link to="/motivation">Motivation</Link>
@@ -27,12 +27,14 @@ export default class headerAppController extends Component {
               <Title />
             </div>
             <Routes>
+              <Route exact path="/Motivation_for_IxD/" element={<Ab />}></Route>
               <Route exact path="/Abstracts" element={<Ab />}></Route>
               <Route
                 exact
                 path="/motivation"
                 element={<Motivation />}
               ></Route>
+              
             </Routes>
           </div>
         </Router>
