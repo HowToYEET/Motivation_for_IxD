@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Motivation_for_IxD/static/css/main.0d041941.css",
+    "main.js": "/Motivation_for_IxD/static/js/main.0ad26dbc.js",
+    "index.html": "/Motivation_for_IxD/index.html",
+    "main.0d041941.css.map": "/Motivation_for_IxD/static/css/main.0d041941.css.map",
+    "main.0ad26dbc.js.map": "/Motivation_for_IxD/static/js/main.0ad26dbc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d041941.css",
+    "static/js/main.0ad26dbc.js"
+  ]
+}
